@@ -12,7 +12,7 @@ while i <= 10:
     response = requests.get(url)
 # defining time
     localtime = time.asctime( time.localtime(time.time()) )
-    print("<=========================================>")
+    print("<===============Made by:5am===============>")
 # setting up parsing
     response = requests.get(url)
     data = response.text
