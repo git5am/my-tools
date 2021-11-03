@@ -1,6 +1,6 @@
 # My Tools
 
-This repo has a bunch of scripts I wrote that actually help me in my life!
+> This repo has a bunch of scripts I wrote that actually help me in my life!
 
 #  (^ - ^)/
 
